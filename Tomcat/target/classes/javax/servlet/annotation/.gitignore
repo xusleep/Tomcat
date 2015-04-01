@@ -1,0 +1,11 @@
+/HandlesTypes.class
+/HttpConstraint.class
+/HttpMethodConstraint.class
+/MultipartConfig.class
+/ServletSecurity$EmptyRoleSemantic.class
+/ServletSecurity$TransportGuarantee.class
+/ServletSecurity.class
+/WebFilter.class
+/WebInitParam.class
+/WebListener.class
+/WebServlet.class

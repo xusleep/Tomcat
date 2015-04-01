@@ -1,0 +1,15 @@
+/BufferedInputFilter.class
+/ChunkedInputFilter.class
+/ChunkedOutputFilter.class
+/GzipOutputFilter$FakeOutputStream.class
+/GzipOutputFilter.class
+/IdentityInputFilter.class
+/IdentityOutputFilter.class
+/LocalStrings.properties
+/SavedRequestInputFilter.class
+/TestChunkedInputFilter$BodyReadServlet.class
+/TestChunkedInputFilter$EchoHeaderServlet.class
+/TestChunkedInputFilter$TrailerClient.class
+/TestChunkedInputFilter.class
+/VoidInputFilter.class
+/VoidOutputFilter.class

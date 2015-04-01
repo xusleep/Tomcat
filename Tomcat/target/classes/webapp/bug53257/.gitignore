@@ -1,0 +1,13 @@
+/foo bar.jsp
+/foo bar.txt
+/foo#bar.jsp
+/foo#bar.txt
+/foo%bar.jsp
+/foo%bar.txt
+/foo&bar.jsp
+/foo&bar.txt
+/foo+bar.jsp
+/foo+bar.txt
+/foo;bar.jsp
+/foo;bar.txt
+/index.jsp

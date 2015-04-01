@@ -1,0 +1,15 @@
+/AbstractRxTask.class
+/AbstractSender.class
+/Constants.class
+/DataSender.class
+/LocalStrings.properties
+/LocalStrings_es.properties
+/MultiPointSender.class
+/PooledSender$SenderQueue.class
+/PooledSender.class
+/ReceiverBase$TaskThreadFactory.class
+/ReceiverBase.class
+/ReplicationTransmitter.class
+/RxTaskPool$TaskCreator.class
+/RxTaskPool.class
+/SenderState.class

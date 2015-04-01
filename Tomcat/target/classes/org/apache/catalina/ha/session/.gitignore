@@ -1,0 +1,15 @@
+/BackupManager.class
+/ClusterManagerBase.class
+/ClusterSessionListener.class
+/Constants.class
+/DeltaManager.class
+/DeltaRequest$AttributeInfo.class
+/DeltaRequest.class
+/DeltaSession.class
+/JvmRouteBinderValve.class
+/LocalStrings.properties
+/LocalStrings_es.properties
+/ReplicatedSessionListener.class
+/SessionMessage.class
+/SessionMessageImpl.class
+/mbeans-descriptors.xml

@@ -1,0 +1,7 @@
+/classpathGetResourceAsStream.jsp
+/classpathGetResourceUrlThenGetStream.jsp
+/classpathGetResources.jsp
+/contextGetRealPath.jsp
+/contextGetResource.jsp
+/contextGetResourcePaths.jsp
+/testTlds.jsp

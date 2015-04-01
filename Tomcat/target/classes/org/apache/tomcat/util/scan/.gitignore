@@ -1,0 +1,15 @@
+/Constants.class
+/Jar.class
+/JarFactory.class
+/JarFileUrlJar.class
+/JarFileUrlNestedJar.class
+/LocalStrings.properties
+/NonClosingJarInputStream.class
+/StandardJarScanFilter.class
+/StandardJarScanner$ClassPathEntry.class
+/StandardJarScanner.class
+/TestJarScanner.class
+/TestStandardJarScanner$LoggingCallback.class
+/TestStandardJarScanner.class
+/UrlJar.class
+/package.html
